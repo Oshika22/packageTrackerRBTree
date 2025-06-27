@@ -5,7 +5,7 @@ A fully functional React application that demonstrates the power of **Red-Black 
 ---
 
 ### 🚀 Live Demo
-👉 [View Deployed Project](#https://package-tracker-rb-tree.vercel.app/) 
+👉 [View Deployed Project](https://package-tracker-rb-tree.vercel.app/) 
 
 ---
 
