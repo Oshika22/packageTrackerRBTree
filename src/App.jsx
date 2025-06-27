@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './index.css'
-import AddPackage from './components/addPackage';
+import AddPackage from './components/AddPackage';
 import SearchPackage from './components/SearchPackage';
 import PackageList from './components/PackageList';
 import TreeVisualizer from './components/TreeVisualizer';
