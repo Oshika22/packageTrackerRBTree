@@ -205,9 +205,9 @@ function App() {
     setSearchResult(node && node.key !== null ? node : null);
   };
   return (
-    <div className="min-h-screen bg-gray-100 py-8 px-4 md:px-10 text-gray-800">
-      <h1 className="text-3xl md:text-4xl font-bold text-center mb-8 text-blue-600">
-        Package Tracker (RBT)
+    <div className="min-h-screen bg-slate-50 py-8 px-4 md:px-10 text-gray-800">
+      <h1 className="text-3xl md:text-4xl font-bold font-sarif text-center mb-8 bg-gradient-to-r from-black via-red-700 to-black bg-clip-text text-transparent p-2">
+        PackTrack: Powered by Red-Black Tree
       </h1>
   
       <div className="space-y-6 max-w-6xl mx-auto">
